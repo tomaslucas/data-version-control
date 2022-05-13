@@ -4,7 +4,7 @@ stages:
     cmd: python src/prepare.py
     deps:
     - path: data/raw
-      md5: 8f82064496e072962e15ef241ad6a1a2.dir
+      md5: c4f9723ba66d426a345d4212a96a39fb.dir
       size: 106573756
       nfiles: 13400
     - path: src/prepare.py
