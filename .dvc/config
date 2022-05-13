@@ -1,5 +1,7 @@
 [core]
     analytics = false
     remote = remote_storage
+[cache]
+    dir = /Volumes/VM_Lucky/dvc_test_shared_cache
 ['remote "remote_storage"']
     url = /Volumes/VM_Lucky/dvc_test_remote
